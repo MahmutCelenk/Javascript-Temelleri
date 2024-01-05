@@ -1,0 +1,3 @@
+function yaz() {
+    alert("Merhaba!!");
+}

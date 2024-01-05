@@ -1,0 +1,15 @@
+// var sayi = 4
+var sayi = 4.77;
+document.write("PI = " + Math.PI + "<br/>");
+document.write("E = " + Math.E + "<br/>");
+document.write("Kare Kök = " + Math.sqrt(4) + "<br/>");
+document.write("Kök = " + Math.sqrt(sayi) + "<br/>");
+document.write("Kare = " + Math.pow(sayi,2) + "<br/>");
+document.write("küp = " + Math.pow(sayi,3) + "<br/>");
+document.write("Max = " + Math.max(sayi, 1 , 5) + "<br/>");
+document.write("Min = " + Math.min(sayi, 1 , 5) + "<br/>");
+document.write("Yuvarlat = " + Math.round(sayi) + "<br/>");
+document.write("Küçük tam sayıya yuvarlat = " + Math.floor(sayi) + "<br/>");
+document.write("Büyük tam sayıya yuvarlat = " + Math.ceil(sayi) + "<br/>");
+document.write("Random Sayı = " + Math.random() + "<br/>");
+document.write("0 ile 9 Arasında Random Sayı = " + Math.random() * 11);
